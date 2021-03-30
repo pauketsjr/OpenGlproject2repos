@@ -1,0 +1,8 @@
+D:\Github\Platformer_Game\x64\Debug\Platformer_Game.exe
+D:\Github\Platformer_Game\x64\Debug\Platformer_Game.pdb
+D:\Github\Platformer_Game\GLUT\x64\Debug\Platformer_Game.exe
+D:\Github\Platformer_Game\GLUT\x64\Debug\Platformer_Game.pdb
+C:\Users\radup\Downloads\GLUT (2)\GLUT\x64\Debug\Platformer_Game.exe
+C:\Users\radup\Downloads\GLUT (2)\GLUT\x64\Debug\Platformer_Game.pdb
+C:\Users\Nick\Downloads\GLUT\x64\Debug\Platformer_Game.exe
+C:\Users\Nick\Downloads\GLUT\x64\Debug\Platformer_Game.pdb
