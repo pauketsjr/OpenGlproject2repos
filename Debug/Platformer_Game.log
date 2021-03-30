@@ -1,0 +1,224 @@
+﻿  box.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\box.cpp(35,12): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\box.cpp(36,12): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\box.cpp(37,17): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\box.cpp(38,16): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  CameraManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  color.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(8,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(9,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(10,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(14,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(15,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(16,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(20,18): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(21,18): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\color.cpp(22,18): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(163,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=GLfloat
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(245): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=GLfloat,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(245): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=GLfloat,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(829): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Exact_args_t,int,int,int,0>(_Tag,_This2 &&,int &&,int &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(829): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Exact_args_t,int,int,int,0>(_Tag,_This2 &&,int &&,int &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(252): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<int,int,int>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(252): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<int,int,int>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(378): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,std::tuple<int,int,int>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\tuple(378): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,std::tuple<int,int,int>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+D:\Github\Platformer_Game\GLUT\color.cpp(26): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<int,int,int,0>(std::tuple<int,int,int> &&) noexcept' being compiled
+D:\Github\Platformer_Game\GLUT\color.cpp(26): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<int,int,int,0>(std::tuple<int,int,int> &&) noexcept' being compiled
+  draw.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  GameManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\GameManager.cpp(52,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  igraphics.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  image_render.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\image_render.cpp(13,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+D:\Github\Platformer_Game\GLUT\image_render.cpp(13,15): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  keyboard.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  LevelManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\LevelManager.cpp(105,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\LevelManager.cpp(105,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  main.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  MenuManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\MenuManager.cpp(38,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\MenuManager.cpp(38,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\MenuManager.cpp(50,77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\MenuManager.cpp(50,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\MenuManager.cpp(52,72): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\MenuManager.cpp(52,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  PlayerManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(54,13): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(61,48): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(61,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(61,111): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(61,90): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(71,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(71,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(71,109): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(71,88): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(74,14): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(80,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(80,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(80,112): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(80,91): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(88,48): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(88,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(88,114): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(88,92): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(96,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(96,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(98,44): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(98,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(102,46): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(102,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(104,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(104,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(108,46): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(108,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(110,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(110,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(114,45): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(114,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(116,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(116,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(147,33): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(148,31): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(225,108): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(225,97): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(233,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\PlayerManager.cpp(233,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  point.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  ScoreManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(23,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(54,65): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(77,66): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(80,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(121,16): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(132,39): warning C4838: conversion from 'GLfloat' to 'GLint' requires a narrowing conversion
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(132,39): warning C4244: 'initializing': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\ScoreManager.cpp(134,16): warning C4018: '<': signed/unsigned mismatch
+  Spike.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\Spike.cpp(10,16): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  SpikesManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\SpikesManager.cpp(22,32): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\SpikesManager.cpp(23,30): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\SpikesManager.cpp(28,18): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Platformer_Game\GLUT\SpikesManager.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Platformer_Game\GLUT\SpikesManager.cpp(61,127): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\SpikesManager.cpp(61,115): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Tile.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  TilesManager.cpp
+D:\Github\Platformer_Game\GLUT\iGraphics.h(85,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(89,14): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Platformer_Game\GLUT\iGraphics.h(155,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(36,57): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(37,57): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(56,81): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(56,70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(61,78): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(61,71): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(92,34): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\Platformer_Game\GLUT\TilesManager.cpp(92,23): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'
